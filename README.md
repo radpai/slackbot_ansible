@@ -27,6 +27,4 @@ ok: [localhost -> localhost]
 PLAY RECAP ********************************************************************************************************************
 localhost                  : ok=2    changed=0    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0   
 
-➜ 
 ```
-
