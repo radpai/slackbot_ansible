@@ -1,0 +1,10 @@
+---
+
+- name: Send notification message via Slack
+  slack:
+    token: <slackbot/token/here>
+    msg: 'Hello!'
+    channel: "<channel-name>"
+  delegate_to: localhost
+
+
